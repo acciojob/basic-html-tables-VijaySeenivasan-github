@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+table{
+	background-color:lightpink
+}thead{
+	color:red ;
+}
+tbody{
+	color:blue;width :200 px
+	
+}
